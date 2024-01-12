@@ -54,25 +54,25 @@ function Content2() {
 
         <div className = "features">
             <Features 
-                img="./assets/thumbs-up.png"
+                img="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e6/Font_Awesome_5_solid_thumbs-up.svg/480px-Font_Awesome_5_solid_thumbs-up.svg.png"
                 title="Premium Quality"
                 content="Projectsdeal is Gold Standard in Academic Research & Writing"
             />
 
             <Features 
-                img="./assets/block.png"
+                img="https://upload.wikimedia.org/wikipedia/commons/thumb/4/4d/Ionicons_ban.svg/640px-Ionicons_ban.svg.png"
                 title="Plagiarism Free"
                 content="Use Official License of Turnitin to Validate <6% plagiarism"
             />
 
             <Features 
-                img="./assets/clock.png"
+                img="https://upload.wikimedia.org/wikipedia/commons/thumb/b/b8/Octicons-clock.svg/640px-Octicons-clock.svg.png"
                 title="Meeting Deadline"
                 content="Projectsdeal team values on-time submission. We deliver before the deadline. Relax!"
             />
 
             <Features 
-                img="./assets/lock.png"
+                img="https://upload.wikimedia.org/wikipedia/commons/thumb/8/82/Ei-lock.svg/640px-Ei-lock.svg.png"
                 title="100% Privacy"
                 content="Follow Strict Code of Confidentiality. We are known for HIGH Business Ethics."
             />
@@ -82,25 +82,25 @@ function Content2() {
         <div className='features'>
 
             <Features
-                img="./assets/money.png"
+                img="https://upload.wikimedia.org/wikipedia/commons/thumb/6/60/Circle-icons-money.svg/640px-Circle-icons-money.svg.png"
                 title="Affordable Prices"
                 content="Every year if more than 80% of your own class can afford it, you can surely! Your work be worth every pound spend."
             />
 
             <Features 
-                img="./assets/phone.png"
+                img="https://upload.wikimedia.org/wikipedia/commons/thumb/a/ae/Font_Awesome_5_solid_phone.svg/640px-Font_Awesome_5_solid_phone.svg.png"
                 title="Dedicated Team"
                 content="Dedicated Personal Managers to ensure high level of service experience."
             />
 
             <Features 
-                img="./assets/file.png"
+                img="https://upload.wikimedia.org/wikipedia/commons/thumb/3/3f/Icons8_flat_image_file.svg/640px-Icons8_flat_image_file.svg.png"
                 title="Free Revision"
                 content="We understand that your supervisor is our client! We prioritize your success above all else, so feel free to request any number of modifications."
             />
 
             <Features 
-                img="./assets/refresh.png"
+                img="https://upload.wikimedia.org/wikipedia/commons/thumb/c/cf/Ei-refresh.svg/640px-Ei-refresh.svg.png"
                 title="Payback Guarantee"
                 content="Our Terms & Conditions are designed with Fair Usage and SOLID Guarantees to ensure success! Result is all that matters!"
             />
